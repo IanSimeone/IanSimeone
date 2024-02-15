@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and drawing
 - 🌱 I’m currently learning how to use linux
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: iansimeone@gmail.com
+- 📫 How to reach me: iansimeone98@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like creating things
 
